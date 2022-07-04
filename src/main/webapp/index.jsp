@@ -20,5 +20,8 @@
     </select>
     <input type="submit" value="Envoyyyyyyyye">
 </form>
+<p>
+    Vous êtes venu ${compteur} fois.
+</p>
 </body>
 </html>
